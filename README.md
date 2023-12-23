@@ -1,3 +1,4 @@
+# excel2postgresql
 Read Data From excel and Connect to postgresql database and Insert data to that.
 
 To install all requirements in virtual enviroment you need to use this command in your shell:
